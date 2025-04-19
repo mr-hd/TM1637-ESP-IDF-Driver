@@ -1,6 +1,6 @@
 # TM1637 ESP‑IDF Driver
 
-Tiny, dependency‑free driver for **TM1637** 7‑segment LED display modules,
+Tiny, dependency‑free driver for **TM1637**,
 implemented in pure C for **Espressif ESP‑IDF**.
 
 ## Features
